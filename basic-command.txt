@@ -21,5 +21,5 @@ git status
 
 git push
 #it add your file in repository
-#try my GitHub I'd your mobile as well as laptop
+#try my GitHub I'd your mobile as well as laptop+
 
