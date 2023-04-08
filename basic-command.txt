@@ -5,4 +5,22 @@ git clone <url>
 git add <filename>
 #it add the file into local host
 
+git config --global user.name "your name"
+git config --global user.email "your email id"
+#it is necessary for add your file
+
+
+git add .\file_name
+#it used to add a file into local host
+
+git commit -m "your changes"
+#it save your file changes
+
+git status
+#it show your status
+
+git push
+#it add your file in repository
+
+
 
