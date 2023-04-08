@@ -23,3 +23,23 @@ git push
 #it add your file in repository
 #try my GitHub I'd your mobile as well as laptop
 
+git reset --hard <commithash>
+# it reset your commit
+
+
+git branch
+#it show the branches
+
+
+git checkout -b "myAcebranch"
+#it create your project for your own identity
+
+git checkout myAcebranch
+#it select your branch
+
+
+
+
+
+
+
